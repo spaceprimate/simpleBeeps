@@ -1,5 +1,5 @@
 # simpleBeeps
-A very simple beat tracker based on Web Audio API. 
+A very simple beat tracker based on Web Audio API. This is meant to be the basis for a larger project as manually adding beats as boolean values in an array is somehting tedious. 
 
 To create a new tracker, use var myTracker = new tracker();
 
